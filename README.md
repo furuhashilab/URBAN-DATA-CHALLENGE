@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/29940264/153139465-3033a4c4-cc60-4222-
 
 > html ファイルの実装 
   
-オフラインで機能する Web 地図アプリケーションを作成するため、[MapLibre GL JS](https://maplibre.org/) を使い実装を行った。上記で記載した、各タイルを Source レイヤーで指定し、道路ベクトルタイル・建物ベクトルタイル・二子玉川の空撮ラスタータイル・世田谷区避難所ベクトルタイルの順で記述し、避難所データが最前面となるよう Layers レイヤーに記述した。避難所のポイントデータは画像としてで表示させた。デモは[こちら](https://furuhashilab.github.io/2021gsc_ShogoHirasawa/)から。
+オフラインで機能する Web 地図アプリケーションを作成するため、[MapLibre GL JS](https://maplibre.org/) を使い実装を行った。上記で記載した、各タイルを Source レイヤーで指定し、道路ベクトルタイル・建物ベクトルタイル・二子玉川の空撮ラスタータイル・世田谷区避難所ベクトルタイルの順で記述し、避難所データが最前面となるよう Layers レイヤーに記述した。避難所のポイントデータは画像としてで表示させた。デモは[こちら](https://furuhashilab.github.io/2021gsc_ShogoHirasawa/)から。   
 <img width="792" alt="スクリーンショット 2022-02-09 16 12 25" src="https://user-images.githubusercontent.com/29940264/153140004-26484fe0-78de-4773-897d-11ee31ea7ded.png">
 
 
