@@ -45,7 +45,7 @@ Web-GIS はインターネット接続がある環境で、前もってデータ
 UNVTPortable としての現状の完成度は 80%程であると考える。ウェブ地図サーバーとして機能させるために毎回、コマンド入力が必要なため、コマンド入力を不要にさせ、電源を入れるだけでサーバーとして機能させることがゴールである。併せて、東京都をテキストエリアとして、行政が公開するオープンデータと、ベースマップとしての OpenStreetMap データを組み合わせ、プリインストールデータセットの試作も必要である。今後、国連と連携をとりながら、本作品の完成度完成を向上させていく。
 
 ## 実績
-- UN-GGIM WG-Disasters TG-B meeting登壇
+- UN-GGIM WG-Disasters TG-B meeting 登壇
 - 都知事杯OpenDataHackathon 出場
 - Tokyo OSS Party!! 2021 出場
 - FOSS4G SotM Oceania 登壇
