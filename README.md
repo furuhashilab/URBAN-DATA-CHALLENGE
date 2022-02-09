@@ -19,7 +19,7 @@ Mac と UNVT Portable を Ethernet ケーブルで有線接続している状態
 
 - QRコードでの読み取りデモ
 SSIDを"dronebird"で設定してデモを行った。   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v1ixHCUnRNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://user-images.githubusercontent.com/29940264/153139465-3033a4c4-cc60-4222-9813-fcf16d520424.mp4
 
 > タイルデータの制作
 
@@ -28,12 +28,6 @@ SSIDを"dronebird"で設定してデモを行った。
 > html ファイルの実装 
   
 オフラインで機能する Web 地図アプリケーションを作成するため、[MapLibre GL JS](https://maplibre.org/) を使い実装を行った。上記で記載した、各タイルを Source レイヤーで指定し、道路ベクトルタイル・建物ベクトルタイル・二子玉川の空撮ラスタータイル・世田谷区避難所ベクトルタイルの順で記述し、避難所データが最前面となるよう Layers レイヤーに記述した。避難所のポイントデータは画像としてで表示させた。
-
-
-
-https://user-images.githubusercontent.com/29940264/153139465-3033a4c4-cc60-4222-9813-fcf16d520424.mp4
-
-
 
 
 ## 今後の展望
