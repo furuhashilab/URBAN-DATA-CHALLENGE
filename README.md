@@ -18,10 +18,15 @@ Mac と UNVT Portable を Ethernet ケーブルで有線接続している状態
 <img width="837" alt="スクリーンショット 2022-02-09 16 18 30" src="https://user-images.githubusercontent.com/29940264/153140836-b24e02be-09a5-40e7-a940-dfb9bdfed581.png">
 
 
-
 - QRコードでの読み取りデモ
-SSIDを"dronebird"で設定してデモを行った。   
-https://user-images.githubusercontent.com/29940264/153139465-3033a4c4-cc60-4222-9813-fcf16d520424.mp4
+ 
+
+
+
+https://user-images.githubusercontent.com/29940264/153141026-3340d53b-8b53-427b-82bc-b78185d89f93.mp4
+
+
+
 
 > タイルデータの制作
 
