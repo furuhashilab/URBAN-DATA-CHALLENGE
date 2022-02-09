@@ -15,7 +15,8 @@
 
 Mac と UNVT Portable を Ethernet ケーブルで有線接続している状態で、実装に着手した。まず、以下のパッケージ 5 つ（apatch2、hostapd、dnsmasq、isc-dhcp-server、rng-tools）をインストールし、その後に UNVT Portable の IP アドレスの固定化、Wi-Fi の SSID と Pass の設定を行った。QR コード読み取りによる Wi-Fi 接続とページ閲覧の簡便化も行い、特別な知識のない人でも、自分の所有する端末を用いて、オフライン環境下でデジタル地図をスマホや PC で閲覧可能とさせた。   
 
-<img width="940" alt="スクリーンショット 2022-02-09 16 02 32" src="https://user-images.githubusercontent.com/29940264/153138684-026eb92a-fd67-4e9b-a31d-9b3412699395.png">
+<img width="837" alt="スクリーンショット 2022-02-09 16 18 30" src="https://user-images.githubusercontent.com/29940264/153140836-b24e02be-09a5-40e7-a940-dfb9bdfed581.png">
+
 
 
 - QRコードでの読み取りデモ
